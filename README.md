@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on OpenCognition {set of ML models reachable over https}
+- 🔭 I’m currently working on Sentiment analyzer REST api
 - 🌱 I’m currently learning .Net Core 5
 - 👯 I’m looking to collaborate on any .Net or Data science project
 - 📫 How to reach me: rangakamesh@hotmail.com
