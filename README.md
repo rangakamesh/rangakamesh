@@ -14,3 +14,13 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about at 
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
+
+<p>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rangakamesh&show_icons=true&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangakamesh&layout=compact&hide=jupyter%20notebook" height="198"/>
+  </a>
+</p>
